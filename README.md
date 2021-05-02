@@ -1,6 +1,6 @@
 # CentOS 6.x Ansible Test Image
 
-[![Docker Automated build](https://img.shields.io/docker/automated/buluma/docker-centos6-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-centos6-ansible/) [![Build Status](https://travis-ci.org/buluma/docker-centos6-ansible.svg?branch=master)](https://travis-ci.org/buluma/docker-centos6-ansible)
+[![Docker Automated build](https://img.shields.io/docker/automated/buluma/docker-centos6-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-centos6-ansible/) ![Docker Pulls](https://img.shields.io/docker/pulls/buluma/docker-centos6-ansible) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/buluma/docker-centos6-ansible) [![Build Status](https://travis-ci.com/buluma/docker-centos6-ansible.svg?branch=master)](https://travis-ci.com/buluma/docker-centos6-ansible) [![Build](https://github.com/buluma/docker-centos6-ansible/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/buluma/docker-centos6-ansible/actions/workflows/build.yml)
 
 CentOS 6.x Docker container for Ansible playbook and role testing.
 
