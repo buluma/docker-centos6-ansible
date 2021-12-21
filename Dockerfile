@@ -1,4 +1,4 @@
-FROM centos:6.10
+FROM buluma/centos:centos6
 LABEL maintainer="Buluma Michael"
 
 # CentOS 6 packages are no longer hosted on the main repository, instead they are in the CentOS Vault
